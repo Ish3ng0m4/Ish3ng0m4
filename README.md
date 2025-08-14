@@ -1,24 +1,13 @@
-<div style="font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'; max-width: 780px; padding: 20px; color: #e6f1ff; line-height: 1.65; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;">
-  <h2 style="margin: 0 0 6px; font-size: 2rem; font-weight: 800; letter-spacing: 0.3px; color: #e6f1ff; text-shadow: 0 1px 0 rgba(0,0,0,0.3);">
-    Gabriel D Ishengoma
-  </h2>
+<h2 style="color:#e6f1ff;">Gabriel D Ishengoma</h2>
+<h4 style="color:#64ffda;">Ethical Hacker || SOC Analyst || Cybersecurity Specialist</h4>
+<p style="color:#cbd5e1;">I am a dedicated cybersecurity professional specializing in 
+  <span style="color:#a5b4fc;">Security Operations</span>, 
+  <span style="color:#a5b4fc;">Penetration Testing</span> and 
+  <span style="color:#a5b4fc;">Digital Forensics</span>.
+</p>
+<p style="color:#cbd5e1;">My work spans developing security tools, building CTF challenges, and conducting security research to identify and mitigate threats.</p>
+<p style="color:#cbd5e1;">My projects reflect a passion for safeguarding systems, enhancing threat detection, and promoting secure practices in the digital landscape.</p>
 
-  <h4 style="margin: 0 0 14px; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.6px; color: #64ffda; text-transform: uppercase;">
-    Ethical Hacker &nbsp;||&nbsp; SOC Analyst &nbsp;||&nbsp; Cybersecurity Specialist
-  </h4>
-
-  <p style="margin: 0 0 10px; color: #cbd5e1;">
-    I am a dedicated cybersecurity professional specializing in <strong style="color:#a5b4fc;">Security Operations</strong>, <strong style="color:#a5b4fc;">Penetration Testing</strong>, and <strong style="color:#a5b4fc;">Digital Forensics</strong>.
-  </p>
-
-  <p style="margin: 0 0 10px; color: #cbd5e1;">
-    My work spans developing security tools, building CTF challenges, and conducting security research to identify and mitigate threats.
-  </p>
-
-  <p style="margin: 0; color: #cbd5e1;">
-    My projects reflect a passion for safeguarding systems, enhancing threat detection and promoting secure practices in the digital landscape.
-  </p>
-</div>
 
 ## 🌐 Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100083981421840) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gd_ishengoma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-d-ishengoma-1533631a5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GD_Ishengoma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.ishengoma29@gmail.com) 
