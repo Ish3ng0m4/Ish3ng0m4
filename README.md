@@ -6,7 +6,7 @@
   <span style="color:#a5b4fc;">Digital Forensics</span>.
 </p>
 <p style="color:#cbd5e1;">My work spans developing security tools, building CTF challenges, and conducting security research to identify and mitigate threats.</p>
-<p style="color:#cbd5e1;">My projects reflect a passion for safeguarding systems, enhancing threat detection, and promoting secure practices in the digital landscape.</p>
+<p style="color:#cbd5e1;">My projects reflect a passion for safeguarding systems, enhancing threat detection and promoting secure practices in the digital landscape.</p>
 
 
 ## 🌐 Social Media:
