@@ -1,4 +1,4 @@
-<h2 style="color:#e6f1ff;">Gabriel D Ishengoma</h2>
+### Gabriel D Ishengoma
 <h4 style="color:#64ffda;">Ethical Hacker || SOC Analyst || Cybersecurity Specialist</h4>
 <p style="color:#cbd5e1;">I am a dedicated cybersecurity professional specializing in 
   <span style="color:#a5b4fc;">Security Operations</span>, 
